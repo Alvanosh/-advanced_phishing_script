@@ -1,1 +1,1 @@
-# -advanced_phishing_script
+-ADVANCED PHISHING SCRIPT-
